@@ -3,7 +3,7 @@
 
 <h3> About Me: </h3>
 
-- :trophy: I'm an Expert with more than **3,5 years experience in Testing**
+- :trophy: I'm an QA with more than **3,5 years experience in Testing**
 
 - :snowflake: I’m currently working remotely in **SimbirSoft company**
 
