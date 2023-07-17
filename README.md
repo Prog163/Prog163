@@ -1,6 +1,8 @@
 <h1 align="center"> Hi! My name is Alexander</h1>
 <h3 align="center">I'm QA Engineer from Samara city, Russia!</h3>
 
+<h3> About Me: </h3>
+
 - :trophy: I'm an Expert with more than **3,5 years experience in Testing**
 
 - :snowflake: I’m currently working remotely in **SimbirSoft company**
@@ -10,7 +12,7 @@
 - 📄 Know about my experiences - you can **request me for CV** by email: **zaychikov.1991@bk.ru**
 
 ___
-<h3 align="left">Languages and Tools that I used:</h3>
+<h3>🛠 Stack:</h3>
 
 | IntelliJ IDEA | Java | Gradle | Junit5 | Selenide |
 |:------:|:----:|:----:|:------:|:------:|
