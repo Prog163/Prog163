@@ -1,5 +1,5 @@
-<h1 align="center"> Hi! I'm Aleksander Zaychikov</h1>
-<h3 align="center">I'm AQA Engineer from Samara city, Russia!</h3>
+<h1 align="center"> Hi! My name is Alexander</h1>
+<h3 align="center">I'm QA Engineer from Samara city, Russia!</h3>
 
 - :trophy: I'm an Expert with more than **3,5 years experience in Testing**
 
