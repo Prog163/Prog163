@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! My name is Alexander</h1>
-<h3 align="center">I'm QA Engineer from Samara city, Russia!</h3>
+<h3 align="center">I'm QA Engineer from Samara city, Russia</h3>
 
 <h3> About Me: </h3>
 
