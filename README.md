@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **tg: @prog163**
 
-- 📄 Know about my experiences - you can **request me for CV** by email: zaychikov.1991@bk.ru
+- 📄 Know about my experiences - you can **request me for CV** by email: **zaychikov.1991@bk.ru**
 
 ___
 <h3>🛠 Stack:</h3>
