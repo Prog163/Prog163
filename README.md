@@ -5,7 +5,7 @@
 
 - :trophy: I'm an QA with more than **6+ years experience in Testing**
 
-- :computer: I’m currently working remotely in [SimbirSoft LLC company](https://www.simbirsoft.com/en/)
+- :computer: I’m currently working remotely in [Alfa-Bank](https://www.alfabank.ru/en/)
 
 - 📫 How to reach me: **tg: @prog163**
 
