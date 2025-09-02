@@ -3,7 +3,7 @@
 
 <h3> About Me: </h3>
 
-- :trophy: I'm an QA with more than **5 years experience in Testing**
+- :trophy: I'm an QA with more than **6+ years experience in Testing**
 
 - :computer: I’m currently working remotely in [SimbirSoft LLC company](https://www.simbirsoft.com/en/)
 
